@@ -18,6 +18,6 @@ To find out if your device can be jailbroken, refer to [AppleDB](https://appledb
 
 ### Sideloading
 
-If your iOS device is not jailbroken, you can download the latest version of the tweak from the **[Releases](https://github.com/RocketTweak/RocketTweak/releases)** section. The download is an app package that can be sideloadaed directly to your device.
+To sideload the tewak, add the source **[https://altstore.getrocketapp.io](https://altstore.getrocketapp.io)** to AltStore or your favorite sideloading app. You may also download the latest version of the tweak from the **[Releases](https://github.com/RocketTweak/RocketTweak/releases)** section and sideload it manually to your device.
 
-You may sideload the app package via various methods. A common way is to use an app such as [AltStore](https://altstore.io/), [SideStore](https://sidestore.io/), or [TrollStore](https://github.com/opa334/TrollStore). You may read more about sideloading on [AppleDB](https://ios.cfw.guide/sideloading-apps/).
+You may read more about sideloading on [AppleDB](https://ios.cfw.guide/sideloading-apps/).
