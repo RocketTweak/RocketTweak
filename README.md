@@ -18,6 +18,6 @@ To find out if your device can be jailbroken, refer to [AppleDB](https://appledb
 
 ### Sideloading
 
-To sideload the tewak, add the source **[https://altstore.getrocketapp.io](https://altstore.getrocketapp.io)** to AltStore or your favorite sideloading app. You may also download the latest version of the tweak from **[getrocketapp.io](https://getrocketapp.io)** and sideload it manually to your device.
+To sideload the tewak, add the source **[https://altstore.getrocketapp.io](https://altstore.getrocketapp.io)** to AltStore or your favorite sideloading app. You may also download the latest version of the tweak from **[https://getrocketapp.io](https://getrocketapp.io)** and sideload it manually to your device.
 
 You may read more about sideloading on [AppleDB](https://ios.cfw.guide/sideloading-apps/).
