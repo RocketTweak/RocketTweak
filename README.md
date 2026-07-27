@@ -1,23 +1,45 @@
+<div align="center">
+
 # Rocket for Instagram
 
-Supercharge your Instagram app with advanced privacy, media, and interface controls.
+**Supercharge your Instagram app with advanced privacy, media, and interface controls.**
 
-## Compatibility
+<sub>Compatible with latest Instagram version. Requires iOS 15 or later.</sub>
 
-Rocket for Instagram is compatible with all iOS and iPadOS devices running iOS 16 and later.
+<p>
+  <a href="https://getrocketapp.io">Website</a>
+  ·
+  <a href="https://x.com/RocketTweak">Support</a>
+</p>
 
-## Installation
+</div>
 
-There are two methods to install the tweak. Use the method that is most suitable for your current setup.
+## Install
 
-### Jailbreaking
+### Sideload
 
-If your iOS device is jailbroken, you can install the latest version of the tweak from **[https://apt.getrocketapp.io](https://apt.getrocketapp.io)**. Simply add the source to your package manager of choice (i.e. Cydia, Sileo, etc.).
+For non-jailbroken devices, you can sideload the tweak by adding the following repository to your sideloading app of choice, such as AltStore, SideStore or Feather.
 
-To find out if your device can be jailbroken, refer to [AppleDB](https://appledb.dev/device-selection/).
+<div align="center">
+  <a href="https://altstore.getrocketapp.io">
+    <img
+      src="https://img.shields.io/badge/ADD%20SOURCE-altstore.getrocketapp.io-00CA4E?style=for-the-badge&labelColor=000000"
+      alt="add source"
+      height="36"
+    >
+  </a>
+</div>
 
-### Sideloading
+### Jailbreak
 
-To sideload the tewak, add the source **[https://altstore.getrocketapp.io](https://altstore.getrocketapp.io)** to AltStore or your favorite sideloading app. You may also download the latest version of the tweak from **[https://getrocketapp.io](https://getrocketapp.io)** and sideload it manually to your device.
+For jailbroken devices, add the following repository to your package manager of choice, such as Sileo or Zebra. This single repository serves the builds for rootful, rootless and roothide jailbreaks.
 
-You may read more about sideloading on [AppleDB](https://ios.cfw.guide/sideloading-apps/).
+<div align="center">
+  <a href="https://apt.getrocketapp.io">
+    <img
+      src="https://img.shields.io/badge/ADD%20SOURCE-apt.getrocketapp.io-BF7831?style=for-the-badge&labelColor=000000"
+      alt="add source"
+      height="36"
+    >
+  </a>
+</div>
